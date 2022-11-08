@@ -1,6 +1,7 @@
-#  
-# Warning:
-# This RAT might be backdoored, please use in a VPS or VM only!
+# Outdated, visit https://github.com/De-eloper/XWorm-v2.2  
+#   
+# Warning:  
+# This RAT might be backdoored, please use in a VPS or VM only!  
 #  
 ## XWorm  
 ![xworm](https://github.com/De-eloper/Image-Storage/raw/main/xwormm.PNG)  
