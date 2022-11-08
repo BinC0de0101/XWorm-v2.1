@@ -1,6 +1,6 @@
 #  
 # Warning:
-# This RAT is backdoored, please use in a VPS or VM only!
+# This RAT might be backdoored, please use in a VPS or VM only!
 #  
 ## XWorm  
 ![xworm](https://github.com/De-eloper/Image-Storage/raw/main/xwormm.PNG)  
